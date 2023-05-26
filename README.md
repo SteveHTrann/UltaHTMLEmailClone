@@ -1,6 +1,6 @@
 # Ulta HTML Email Clone : <a target="_blank" href="">Visit Here (Not online yet)</a>
 
-A promotional email template from Ulta.
+I AM NOT AFFILIATED WITH ULTA IN ANYWAY. This was a fun little promotional email template from Ulta that I did to brush up on my HTML and CSS skills.
 
 ## Tech used: ![HTML5 BADGE](https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5)![CSS BADGE](https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3)
 
